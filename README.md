@@ -2,7 +2,7 @@
 
 ## About
 
-![image](https://user-images.githubusercontent.com/85445638/164889813-3ab99d83-7f9d-43de-bd98-b4db0d15be78.png)
+![image](https://user-images.githubusercontent.com/85445638/164911118-de7dd260-0d0c-4df7-830d-0e32cf6aa47b.png)
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on recommending skincare products based on finding similar ingredients used. For detailed walkthrough, please view the video presentation and source code in order from:
 
@@ -14,9 +14,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
   
 ## Contributors
 
-- @amabellim - Amabel - Extracting and preprocessing data, applying lexical analysis to convert data into a document-term matrix (DTM) using one-hot encoding
-- @spillthebeanss - Kristine - Dimensionality reduction and machine learning model using UMAP
-- @NyanMaw - Maw Htun - idk
+- @amabellim - Amabel - Extracting and preprocessing data, Exploratory Data Analysis. NLP model application, UMAP application, Drawing conclusions and insights
+- @spillthebeanss - Kristine - Extracting and preprocessing data, Exploratory Data Analysis. NLP model application, UMAP application, Drawing conclusions and insights
+- @NyanMaw - Maw Htun - Extracting and preprocessing data, Exploratory Data Analysis. NLP model application, UMAP application, Drawing conclusions and insights
 
 ## Problem Definition
 Detection of patterns in the data to produce a personalized recommendation system for skincare products
@@ -27,7 +27,7 @@ Detection of patterns in the data to produce a personalized recommendation syste
 
 ## Models Used
 
-Inspired by Natural Language Processing models:
+Inspired by Natural Language Processing (NLP) models:
 1. Lexical Analysis (a.k.a. Tokenisation)
 2. UMAP - Uniform Manifold Approximation and Projection
 3. Comparison of different cases using Euclidean distance
@@ -44,7 +44,7 @@ Inspired by Natural Language Processing models:
 
 - Collaborating using Google CoLab and GitHub
 - Handling data and extracting key information relevant to the problem definition
-- Natural language processing models
+- NLP models
 - The use of lexical analysis to better read and extract relevant keywords (in our case, ingredients for skincare products)
 - Representing data in a DTM, which has a high dimension, using one-hot encoding
 - The use of dimension reduction algorithms, such as Principal Component Analysis (PCA), t-distributed stochastic neighbor embedding (t-SNE), and UMAP, so as to be able to visualise key information
