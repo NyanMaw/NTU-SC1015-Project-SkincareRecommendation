@@ -6,11 +6,11 @@
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on recommending skincare products based on finding similar ingredients used. For detailed walkthrough, please view the video presentation and source code in order from:
 
-1. [Data Extraction]
-2. [Data Visualization]
-3. [Data Resampling and Splitting]
-4. [Logistic Regression]
-5. [Neural Network]
+1. [Video Presentation]
+2. [Cleaning Data & Exploratory Data Analysis]
+3. [Lexical Analysis]
+4. [Dimension Reduction]
+5. [Finding Similar Products with Euclidean Distance]
   
 ## Contributors
 
