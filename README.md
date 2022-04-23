@@ -1,6 +1,9 @@
 # Welcome to our NTU-SC1015-Project-Skincare Recommendation Repository
 
-## About
+## About!
+
+[Uploading Screenshot 2022-04-24 at 4.02.00 AM.png…]()
+
 
 ![image](https://user-images.githubusercontent.com/85445638/164911118-de7dd260-0d0c-4df7-830d-0e32cf6aa47b.png)
 
