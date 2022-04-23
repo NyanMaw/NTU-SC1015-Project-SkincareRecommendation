@@ -19,6 +19,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - @NyanMaw - Maw Htun - idk
 
 ## Problem Definition
+Detection of patterns in the data to produce a personalized recommendation system for skincare products
 
 - Can we find a strong correlation between price and rank, within products of the same categories (i.e. within Moisturizers, Cleansers, etc.)
 
