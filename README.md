@@ -14,16 +14,16 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
   
 ## Contributors
 
-- @amabellim - Amabel - Extracting and preprocessing data, Exploratory Data Analysis. NLP model application, UMAP application, Drawing conclusions and insights
-- @spillthebeanss - Kristine - Extracting and preprocessing data, Exploratory Data Analysis. NLP model application, UMAP application, Drawing conclusions and insights
-- @NyanMaw - Maw Htun - Extracting and preprocessing data, Exploratory Data Analysis. NLP model application, UMAP application, Drawing conclusions and insights
+- @amabellim - Amabel - Extracting and preprocessing data, exploratory data analysis, NLP model application, UMAP application, drawing conclusions and insights.
+- @spillthebeanss - Kristine - Extracting and preprocessing data, exploratory data analysis, NLP model application, UMAP application, drawing conclusions and insights.
+- @NyanMaw - Maw Htun - Extracting and preprocessing data, exploratory data analysis, NLP model application, UMAP application, drawing conclusions and insights.
 
 ## Problem Definition
 Detection of patterns in the data to produce a personalized recommendation system for skincare products
 
-- Can we find a strong correlation between price and rank, within products of the same categories (i.e. within Moisturizers, Cleansers, etc.)
+- Is there any relationship between price and rank, within products of the same categories? (i.e. within Moisturizers, Cleansers, etc.)
 
-- Are we able to recommend similar products based on analysing the ingredients used?
+- Are we able to recommend similar products by analysing the ingredients used?
 
 ## Models Used
 
@@ -45,17 +45,13 @@ Inspired by Natural Language Processing (NLP) models:
 - Collaborating using Google CoLab and GitHub
 - Handling data and extracting key information relevant to the problem definition
 - NLP models
-- The use of lexical analysis to better read and extract relevant keywords (in our case, ingredients for skincare products)
+- Usage of lexical analysis (tokenisation) to better extract relevant keywords (in our case, ingredients for skincare products)
 - Representing data in a DTM, which has a high dimension, using one-hot encoding
-- The use of dimension reduction algorithms, such as Principal Component Analysis (PCA), t-distributed stochastic neighbor embedding (t-SNE), and UMAP, so as to be able to visualise key information
+- Using dimensionality reduction algorithms, such as Principal Component Analysis (PCA), t-distributed stochastic neighbor embedding (t-SNE), and UMAP, so as to be able to visualise key information
 - Using bokeh to visualise data
-- Using Euclidean distance to compare between differrent cases
+- Finding similarities
 
 ## References
 
-- sasa
-- assasr
-- asas
-- asasas
-- asasas
-- sasas
+- https://umap-learn.readthedocs.io/en/latest/parameters.html#:~:text=provided%20by%20n_neighbors%20.-,min_dist,will%20result%20in%20clumpier%20embeddings.
+- https://umap-learn.readthedocs.io/en/latest/reproducibility.html
