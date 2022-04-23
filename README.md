@@ -2,6 +2,8 @@
 
 ## About
 
+![image](https://user-images.githubusercontent.com/85445638/164889813-3ab99d83-7f9d-43de-bd98-b4db0d15be78.png)
+
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on recommending skincare products based on finding similar ingredients used. For detailed walkthrough, please view the video presentation and source code in order from:
 
 1. [Data Extraction]
