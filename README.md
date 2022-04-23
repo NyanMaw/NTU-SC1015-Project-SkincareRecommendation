@@ -14,7 +14,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
   
 ## Contributors
 
-- @amabellim - Amabel - Extracting and preprocessing data, applying lexical analysis to convert data into a document-term matrix (DTM)
+- @amabellim - Amabel - Extracting and preprocessing data, applying lexical analysis to convert data into a document-term matrix (DTM) using one-hot encoding
 - @spillthebeanss - Kristine - Dimensionality reduction and machine learning model using UMAP
 - @NyanMaw - Maw Htun - idk
 
@@ -45,7 +45,7 @@ Inspired by Natural Language Processing models:
 - Handling data and extracting key information relevant to the problem definition
 - Natural language processing models
 - The use of lexical analysis to better read and extract relevant keywords (in our case, ingredients for skincare products)
-- Representing data in a DTM, which has a high dimension
+- Representing data in a DTM, which has a high dimension, using one-hot encoding
 - The use of dimension reduction algorithms, such as Principal Component Analysis (PCA), t-distributed stochastic neighbor embedding (t-SNE), and UMAP, so as to be able to visualise key information
 - Using bokeh to visualise data
 - Using Euclidean distance to compare between differrent cases
