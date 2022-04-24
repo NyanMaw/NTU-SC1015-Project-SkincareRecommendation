@@ -34,10 +34,10 @@ Inspired by Natural Language Processing (NLP) models:
 
 ## Conclusion
 
-- no relationship between price and effectiveness of products
+- Little to no relationship between price and rank of products
 
-- personalised recommendation system to suggest 5 products most similar to the user's choice of product
-- enables users to make more informed choices when purchasing skincare products according to skintype and ingredients, instead of recommendations from others
+- Possible to create a personalised recommendation system to suggest 5 products most similar to the user's choice of product
+- Enables users to make more informed choices when purchasing skincare products according to skintype and ingredients, instead of recommendations from others
 
 
 ## What did we learn from this project?
