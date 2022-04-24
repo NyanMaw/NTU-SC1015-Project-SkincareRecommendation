@@ -6,11 +6,8 @@
 
 This is our mini project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on recommending skincare products by finding similar ingredients used. For a detailed walkthrough, please view the video presentation and source code in order from:
 
-1. [Video Presentation]
-2. [Cleaning Data & Exploratory Data Analysis]
-3. [Lexical Analysis]
-4. [Dimension Reduction]
-5. [Finding Similar Products with Euclidean Distance]
+1. [Project Presentation Slides]
+2. [Jupyter Notebook File]
   
 ## Contributors
 
@@ -34,10 +31,10 @@ Inspired by Natural Language Processing (NLP) models:
 
 ## Conclusion
 
-- no relationship between price and effectiveness of products
+- Little to no relationship between price and rank of products
 
-- personalised recommendation system to suggest 5 products most similar to the user's choice of product
-- enables users to make more informed choices when purchasing skincare products according to skintype and ingredients, instead of recommendations from others
+- Possible to create a personalised recommendation system to suggest 5 products most similar to the user's choice of product
+- Enables users to make more informed choices when purchasing skincare products according to skintype and ingredients, instead of recommendations from others
 
 
 ## What did we learn from this project?
