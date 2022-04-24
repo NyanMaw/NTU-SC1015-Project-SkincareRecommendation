@@ -6,8 +6,13 @@
 
 This is our mini project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on recommending skincare products by finding similar ingredients used. For a detailed walkthrough, please view the video presentation and source code in order from:
 
-1. [Project Presentation Slides](https://github.com/NyanMaw/NTU-SC1015-Project-SkincareRecommendation/blob/main/Project%20Presentation%20Slides_Skincare%20Recommendation.pdf)
-2. [Jupyter Notebook File]
+1. [Project Presentation Slides](https://github.com/NyanMaw/NTU-SC1015-Project-SkincareRecommendation/blob/main/Project%20Presentation%20Slides_Skincare%20Recommendation.pdf) To be read along with the video presentation for clarity.
+2. [Detailed Explanation](https://github.com/NyanMaw/NTU-SC1015-Project-SkincareRecommendation/blob/main/Detailed%20Explanation.ipynb) The full code containing data cleaning, exploratory data analysis, machine learning applications, statiscal analysis, and its explanations.
+3. [Interactive Skincare Recommendation System](https://github.com/NyanMaw/NTU-SC1015-Project-SkincareRecommendation/blob/main/Interactive%20Skincare%20Recommendation%20System.ipynb) An application of the interactive features of Bokeh. The jupyter notebook features an interactive skincare recommendation system.
+
+There are two .csv files:
+1. [cosmetics.csv](https://github.com/NyanMaw/NTU-SC1015-Project-SkincareRecommendation/blob/main/cosmetics.csv) Main raw dataset used in the mini-project. Referenced from Kaggle.
+2. [newData.csv](https://github.com/NyanMaw/NTU-SC1015-Project-SkincareRecommendation/blob/main/newData.csv) Created dataset from the Interactive Skincare Recommendation System.
   
 ## Contributors
 
