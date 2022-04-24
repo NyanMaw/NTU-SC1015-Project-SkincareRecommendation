@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/85445638/164944612-d9bd5723-d2fe-4763-90f8-b637a9e9de8b.png)
 
-This is our mini project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on recommending skincare products by finding similar ingredients used. For a detailed walkthrough, please view the video presentation and source code in order from:
+This is our mini project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on recommending skincare products by finding similar ingredients used. For a detailed walkthrough, please view the presentation slides and source code in order from:
 
 1. [Project Presentation Slides](https://github.com/NyanMaw/NTU-SC1015-Project-SkincareRecommendation/blob/main/Project%20Presentation%20Slides_Skincare%20Recommendation.pdf) To be read along with the video presentation for clarity.
 2. [Detailed Explanation](https://github.com/NyanMaw/NTU-SC1015-Project-SkincareRecommendation/blob/main/Detailed%20Explanation.ipynb) The full code containing data cleaning, exploratory data analysis, machine learning applications, statiscal analysis, and its explanations.
